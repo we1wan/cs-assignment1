@@ -3,10 +3,10 @@ function App() {
     <div
       style={{ textAlign: "center", padding: "50px", fontFamily: "sans-serif" }}
     >
-      <h1>cloud services assignment #1</h1>
-      <h2>PaaS deployment to render.com</h2>
-      <p>developer: meeee :3</p>
-      <p>using react and vite</p>
+      <h2>cloud services assignment #1</h2>
+      <p>PaaS deployment to render.com</p>
+      <p>by nesa hi hello!</p>
+      <p>using react and vite?</p>
     </div>
   );
 }
